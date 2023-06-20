@@ -1,0 +1,13 @@
+
+meta:
+  root: C:\Users\xfsmi\PycharmProjects\pythonProject\SFINCS\xan_catalog\helensville_data
+
+bathymetry:
+    path: nzbathy_2016/nzbathy_2016.tif
+    crs: 3994
+    data_type: RasterDataset
+    driver: raster
+    meta:
+        source_url: https://data-niwa.opendata.arcgis.com/datasets/NIWA::nz-bathymetry-250m-imagery-raster-layer/explore?location=-36.453610%2C175.387227%2C8.55
+        category: bathymetry
+

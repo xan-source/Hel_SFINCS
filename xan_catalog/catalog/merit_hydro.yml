@@ -1,0 +1,18 @@
+
+meta:
+  root: C:\Users\xfsmi\PycharmProjects\pythonProject\SFINCS\xan_catalog\helensville_data
+
+merit_hydro:
+  data_type: RasterDataset
+  driver: raster
+  crs: 4326
+  meta:
+    category: topography
+  rename:
+    s40e170_hnd: height_above_nearest_drain
+    flwdir: flow_direction
+    uparea: upstream_area
+    upgrid: upstream_grid
+    rivwth: river_width
+
+  path: merit_hydro/*.tif

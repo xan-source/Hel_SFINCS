@@ -1,0 +1,13 @@
+
+meta:
+  root: C:\Users\xfsmi\PycharmProjects\pythonProject\SFINCS\xan_catalog\helensville_data
+
+vito:
+    path: global_land_cover/PROBAV_LC100_global_v3.0.1_2019-nrt_Discrete-Classification-map_EPSG-4326.tif
+    data_type: RasterDataset
+    crs: 4326
+    driver: raster
+    meta:
+        source_url: https://zenodo.org/record/3939050
+        category: landuse
+

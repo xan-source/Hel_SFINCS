@@ -1,0 +1,14 @@
+
+meta:
+  root: C:\Users\xfsmi\PycharmProjects\pythonProject\SFINCS\xan_catalog\helensville_data
+
+gcn250:
+    path: GCN250_ARCII/GCN250_ARCII.tif
+    data_type: RasterDataset
+    driver: raster
+    crs: 4326
+    meta:
+        source_license: CC BY 4.0
+        source_url: https://doi.org/10.6084/m9.figshare.7756202.v1
+        category: infiltration
+

@@ -1,0 +1,16 @@
+
+meta:
+  root: C:\Users\xfsmi\PycharmProjects\pythonProject\SFINCS\xan_catalog\helensville_data
+
+era5:
+  crs: 4326
+  data_type: RasterDataset
+  driver: netcdf
+  meta:
+    category: meteo
+    history: Extracted from ERA5 daily data on pressure levels
+    source_url: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=overview
+  path: rainfall_era5/era5_rainfall.nc
+  unit_mult:
+    precip: 1000
+

@@ -1,0 +1,12 @@
+
+meta:
+  root: C:\Users\xfsmi\PycharmProjects\pythonProject\SFINCS\xan_catalog\helensville_data
+
+extent:
+    path: gswo/recurrence_170E_30Sv1_4_2021.tif
+    data_type: RasterDataset
+    driver: raster
+    crs: 4326
+    meta:
+        category: water extent
+    nodata: 255

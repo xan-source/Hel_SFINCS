@@ -1,0 +1,11 @@
+
+meta:
+  root: C:\Users\xfsmi\PycharmProjects\pythonProject\SFINCS\xan_catalog\helensville_data
+
+elevtn:
+    path: elevtn4326.tif
+    data_type: RasterDataset
+    driver: raster
+    crs: 4326
+    meta:
+        category: elevation
